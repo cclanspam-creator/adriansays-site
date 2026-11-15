@@ -5,7 +5,7 @@ topics: ["Restoration"]
 permalink: "/rediscovering-rest-in-penang/"
 ---
 
-![Walking was a huge part of my retreat](https://adriansays.com/wp-content/uploads/2026/02/photo_2026-02-01_06-29-44-1024x768.jpg)
+![Walking was a huge part of my retreat](/wp-content/uploads/2026/02/photo_2026-02-01_06-29-44-1024x768.jpg)
 
 A fishing boat I encountered while walking along the beaches in Penang
 

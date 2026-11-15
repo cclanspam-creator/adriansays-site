@@ -17,7 +17,7 @@ If we are honest, many of us will recall moments in which we feel similarly disp
 
 The truth is, we should welcome these moments as pause for reflection. The cost of ignoring them is too high. Those who bury these moments reap a future harvest of regret and loss. Instead, one ought to take courage and confront these moments for what they truly are - good signs that indicate a change in season and the promise of a new harvest of insights on how to transform our current jobs into more meaningful vocations.
 
-![The symbols of one's position](http://adriansays.com/wp-content/uploads/2018/06/Patang.jpg) Every office has its symbol of positional authority. This sword and scarf are awarded when a person is elected as a Member of Parliament in Bhutan
+![The symbols of one's position](/wp-content/uploads/2018/06/Patang.jpg) Every office has its symbol of positional authority. This sword and scarf are awarded when a person is elected as a Member of Parliament in Bhutan
 
 #### ***The Push for Position***
 
@@ -63,7 +63,7 @@ Knowing how his position can get in the way of a good discussion, the King of Bh
 
 Because of that conversation, I was clear about how I could contribute to Bhutan. I was impressed by a king enlightened enough to know when and where not to use positional authority, who knows how not be mastered by his position, but seeks instead to use his position for the greater good of his kingdom. As a result, for the next five years, I put my heart and soul into helping Bhutan set up its first national institute for governance and strategic studies and became its first resident faculty (See [RIGSS](http://www.rigss.bt)).
 
-![The pursuit of position is often at the cost of time](http://adriansays.com/wp-content/uploads/2018/06/20160203_074224-1024x743.jpg) Reminder to make the moments count: A watch gifted by the King of Bhutan
+![The pursuit of position is often at the cost of time](/wp-content/uploads/2018/06/20160203_074224-1024x743.jpg) Reminder to make the moments count: A watch gifted by the King of Bhutan
 
 ### **The Place of Position**
 

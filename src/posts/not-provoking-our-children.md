@@ -5,7 +5,7 @@ topics: ["Parenting"]
 permalink: "/not-provoking-our-children/"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2025/06/Provoked-What-to-do-scaled-3-1024x1016.jpg)
+![](/wp-content/uploads/2025/06/Provoked-What-to-do-scaled-3-1024x1016.jpg)
 
 > "Fathers, do not provoke your children"
 >

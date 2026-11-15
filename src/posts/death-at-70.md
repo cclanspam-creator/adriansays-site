@@ -49,7 +49,7 @@ Hence, if it were up to me, I’d like to live till 70 years old. I’d like to 
 
 Then, having taken care of the exit, I’d want to review how to spend my remaining days on earth. I’d probably not have a bucket list - that would be too pressurizing. Instead, I’d want to have a thankfulness list, and I’d want that list to be as long as the hairs on my head (Haha! Just kidding).
 
-![Family Picture to be placed at my death](http://adriansays.com/wp-content/uploads/2018/07/family-fun-1.png) May your thankfulness list be as numerous as the hairs on my head!
+![Family Picture to be placed at my death](/wp-content/uploads/2018/07/family-fun-1.png) May your thankfulness list be as numerous as the hairs on my head!
 
 I’d want to have something to give to my kids as a remembrance. (Not material wealth - sorry kiddos!) There is a Chinese saying:
 

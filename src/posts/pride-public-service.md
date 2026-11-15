@@ -5,7 +5,7 @@ topics: ["Public Service"]
 permalink: "/pride-public-service/"
 ---
 
-![Bouquet for the Pride of Public Service](https://adriansays.com/wp-content/uploads/2019/06/beautiful-beautiful-flowers-bloom-424670.jpg)
+![Bouquet for the Pride of Public Service](/wp-content/uploads/2019/06/beautiful-beautiful-flowers-bloom-424670.jpg)
 
 Bouquet for the Pride of Public Service
 

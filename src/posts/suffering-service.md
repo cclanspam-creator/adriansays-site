@@ -5,7 +5,7 @@ topics: ["Public Service", "Suffering", "Trials"]
 permalink: "/suffering-service/"
 ---
 
-![Suffering Souls - Shaped to Serve](https://adriansays.com/wp-content/uploads/2019/07/angry-anxiety-depression-236151.jpg)
+![Suffering Souls - Shaped to Serve](/wp-content/uploads/2019/07/angry-anxiety-depression-236151.jpg)
 
 Suffering Souls - Shaped to Serve
 

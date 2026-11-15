@@ -5,7 +5,7 @@ topics: ["Feedback", "Reflection & Journaling"]
 permalink: "/royal-academy-memory/"
 ---
 
-# ![Memories](https://adriansays.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.50.42-AM.png)
+# ![Memories](/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.50.42-AM.png)
 
 # Why Do We Remember?
 
@@ -49,7 +49,7 @@ When we relocated back to Singapore on 7 July this year, we could not fit a fare
 
 ## The Significance of Yiga Chocolates
 
-![Paying it forward](https://adriansays.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.21.56-AM.png) Kinley, the kind Founder of Yiga Chocolates who donated chocolates for my Royal Academy visit
+![Paying it forward](/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.21.56-AM.png) Kinley, the kind Founder of Yiga Chocolates who donated chocolates for my Royal Academy visit
 
 During students' tea break, I got my student guides to distribute the [Yiga](https://www.facebook.com/BhutanChocolate/) chocolates to the entire cohort. Kinley, the [entrepreneur](https://bhutantimes.com/article/bhutanese-artisanal-chocolates-infused-with-exotic-local-ingredients) who started the first artisanal chocolate business in Bhutan, had donated many chocolate bars when she heard that I was visiting the Royal Academy. Her courage to pursue her own dreams was a story worth telling, so I shared her story with the children.
 
@@ -57,7 +57,7 @@ For the next few minutes, I encouraged the children to journal about their dream
 
 ## My Guides from Royal Academy
 
-![Remembering my Guides](https://adriansays.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.16.55-AM-1024x521.png) From Left to Right: Dechen Lhendup, Kinlay Yangzom, Chimi Wangmo, Tandin Wangchuk, and Sonam Tshomo
+![Remembering my Guides](/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.16.55-AM-1024x521.png) From Left to Right: Dechen Lhendup, Kinlay Yangzom, Chimi Wangmo, Tandin Wangchuk, and Sonam Tshomo
 
 By the way, my student guides were fantastic! Dechen, the youngest, was initially shy but bravely performed his ushering duties nonetheless. Kinlay, the 2nd Year guide, is into athletics (She jogs five km nearly every day). The other male guide, Tandin, was enthusiastic when I asked him about his favourite sport (Ans: "Football. We play it every day!"). Chimi and Sonam were from the first batch of students and did most of the talking, role-modeling for the other three how to be student guides.
 
@@ -79,7 +79,7 @@ I said my goodbyes to the teachers and the students. Feeling happy, I was halfwa
 
 I hurried back to the Academy to find her waiting patiently for me at the car park. Her fellow guide Sonam had also waited with her, armed too with her own present for Emma. Not trusting my faulty memory to recall this occasion, I asked my driver to snap a photo for us to capture the moment.
 
-![Guides who remember](https://adriansays.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.19.04-AM.png) Chimi and Sonam
+![Guides who remember](/wp-content/uploads/2018/10/Screen-Shot-2018-10-17-at-2.19.04-AM.png) Chimi and Sonam
 
 # Human Memory is Unreliable
 

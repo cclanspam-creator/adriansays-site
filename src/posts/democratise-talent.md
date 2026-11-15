@@ -5,7 +5,7 @@ topics: ["Talent"]
 permalink: "/democratise-talent/"
 ---
 
-![The hostel at which RIGSS participants became democratised learners regardless of position or seniority. ](https://i2.wp.com/adriansays.com/wp-content/uploads/2020/09/IMG_4099-scaled.jpg?fit=665%2C444&ssl=1)
+![The hostel at which RIGSS participants became democratised learners regardless of position or seniority. ](/wp-content/uploads/2020/09/IMG_4099-scaled.jpg)
 
 The hostel at which RIGSS participants became democratised learners regardless of position or seniority.
 

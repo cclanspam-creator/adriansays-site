@@ -2,6 +2,11 @@
 export default function (config) {
   config.addPassthroughCopy({ "src/assets": "assets" });
   config.addPassthroughCopy({ "src/static": "." });
+  config.addPassthroughCopy({ "src/uploads": "wp-content/uploads" });
+  // Images load only as the reader scrolls to them.
+  config.addTransform("lazy-images", (content, outputPath) =>
+    outputPath && outputPath.endsWith(".html") ? content.replace(/<img (?!loading=)/g, '<img loading="lazy" decoding="async" ') : content
+  );
   config.ignores.add("src/drafts/**");
   config.ignores.add("src/_settings/**");
 

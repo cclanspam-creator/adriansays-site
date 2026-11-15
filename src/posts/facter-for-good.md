@@ -5,7 +5,7 @@ topics: ["FACTER"]
 permalink: "/facter-for-good/"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2020/04/FACTER-logo.png)
+![](/wp-content/uploads/2020/04/FACTER-logo.png)
 
 FACTER for Good
 

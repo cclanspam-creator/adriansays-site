@@ -5,7 +5,7 @@ topics: ["Appreciation", "Reflection & Journaling"]
 permalink: "/whatever-happened-to-monday/"
 ---
 
-![Whatever happened to Monday](http://adriansays.com/wp-content/uploads/2018/07/IMG_0231-1024x683.jpg)
+![Whatever happened to Monday](/wp-content/uploads/2018/07/IMG_0231-1024x683.jpg)
 
 Ah…Mondays. It’s a gloomy Monday morning. In a previous life, my Mondays were never the best days to begin the week with. These days, I relive those Monday moments through the experiences of my coaching and consulting clients. The distance affords some protection. Still, it is not enough to lighten the Monday mood.
 
@@ -15,7 +15,7 @@ My timer had been set weeks ago for the day I relocate to Singapore. Today, on a
 
 I glance at the watch that His Majesty gifted me during our farewell audience last week. “To Adrian Chan from HM and the RIGSS Family” is inscribed at the back of the watch. The goodbye is both intimate and casual, open-ended and yet strangely complete.
 
-![Moments to remember by](http://adriansays.com/wp-content/uploads/2018/07/IMG-20180627-WA0005-1024x512.jpg) Her Majesty remembered the photo we took with the royal puppies 3 years ago. She made sure that we were able to take another picture with them at the audience.
+![Moments to remember by](/wp-content/uploads/2018/07/IMG-20180627-WA0005-1024x512.jpg) Her Majesty remembered the photo we took with the royal puppies 3 years ago. She made sure that we were able to take another picture with them at the audience.
 
 # Count Every Moment
 

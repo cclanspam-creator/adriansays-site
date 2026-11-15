@@ -5,7 +5,7 @@ topics: ["Leadership"]
 permalink: "/what-is-your-sop-for-high-performing-teams/"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2024/04/Screenshot-2024-04-08-at-1.39.42%E2%80%AFPM-1024x593.png)
+![](/wp-content/uploads/2024/04/sop-high-performing-teams.png)
 
 ## SOP? What SOP?
 

@@ -5,7 +5,7 @@ topics: ["Parenting"]
 permalink: "/fathers-appeal/"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2019/06/adult-child-1250452.jpg)
+![](/wp-content/uploads/2019/06/adult-child-1250452.jpg)
 
 Father Child
 

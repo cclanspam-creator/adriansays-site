@@ -5,7 +5,7 @@ topics: ["Feedback"]
 permalink: "/what-is-360-feedback-for-the-christian/"
 ---
 
-> ![](https://adriansays.com/wp-content/uploads/2025/06/feedback-as-a-gift-to-be-unboxed-show-hands-giving.png)
+> ![](/wp-content/uploads/2025/06/feedback-as-a-gift-to-be-unboxed-show-hands-giving.png)
 >
 > Phil. 4:8   Finally brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable—if there is any moral excellence and if there is any praise—dwell on these things.
 

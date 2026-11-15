@@ -5,7 +5,7 @@ topics: ["Motivation"]
 permalink: "/motivation/"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2022/01/hygiene-motivation.jpg)
+![](/wp-content/uploads/2022/01/hygiene-motivation.jpg)
 
 Motivation is non-linear
 
@@ -67,6 +67,6 @@ Instead of New Year resolutions, I have been working on my motivation list. I am
 
 For those who attended the 20 Oct 2022 Mental Health Summit and want a copy of my presentation, you can find it here:
 
-[20-Oct-22-talk-on-languishing](https://adriansays.com/wp-content/uploads/2022/10/20-Oct-22-talk-on-languishing.pdf)[Download](https://adriansays.com/wp-content/uploads/2022/10/20-Oct-22-talk-on-languishing.pdf)
+[20-Oct-22-talk-on-languishing](/wp-content/uploads/2022/10/20-Oct-22-talk-on-languishing.pdf)[Download](/wp-content/uploads/2022/10/20-Oct-22-talk-on-languishing.pdf)
 
-[Mental-Wellness-poll-2](https://adriansays.com/wp-content/uploads/2022/10/Mental-Wellness-poll-2.pdf)[Download](https://adriansays.com/wp-content/uploads/2022/10/Mental-Wellness-poll-2.pdf)
+[Mental-Wellness-poll-2](/wp-content/uploads/2022/10/Mental-Wellness-poll-2.pdf)[Download](/wp-content/uploads/2022/10/Mental-Wellness-poll-2.pdf)

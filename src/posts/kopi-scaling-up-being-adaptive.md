@@ -5,7 +5,7 @@ topics: ["Authenticity", "Excellence"]
 permalink: "/kopi-scaling-up-being-adaptive/"
 ---
 
-![Scale, Adaptive](http://adriansays.com/wp-content/uploads/2018/08/skilled-coffee-pouring-1024x683.jpg) One way to scale up the artform of preparing coffee....be adaptive, ambidextrous and use the right implements! (Photo by Nathan Dumlao)
+![Scale, Adaptive](/wp-content/uploads/2018/08/skilled-coffee-pouring-1024x683.jpg) One way to scale up the artform of preparing coffee....be adaptive, ambidextrous and use the right implements! (Photo by Nathan Dumlao)
 
 # Got Long Queue…Must Be Good!
 

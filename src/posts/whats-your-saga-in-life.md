@@ -5,7 +5,7 @@ topics: ["Purpose"]
 permalink: "/whats-your-saga-in-life/"
 ---
 
-![Saga of my life](https://adriansays.com/wp-content/uploads/2026/02/unnamed1.jpg)
+![Saga of my life](/wp-content/uploads/2026/02/unnamed1.jpg)
 
 ### Retreat Reflections
 
