@@ -5,7 +5,7 @@ topics: []
 draft: true
 ---
 
-![](/wp-content/uploads/2018/09/book.jpeg)
+![](/wp-content/uploads/2018/09/book.webp)
 
 There truly is nothing new under the sun. Much of research uncovered is actually insight rediscovered. Hence, knowledge objectified in books are as impermanent as it gets.
 

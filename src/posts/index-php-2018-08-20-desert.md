@@ -5,7 +5,7 @@ topics: ["Restoration", "Trials"]
 permalink: "/index-php-2018-08-20-desert/"
 ---
 
-# ![](/wp-content/uploads/2018/08/monument-valley-lightning-storm-rain-144244-1024x576.jpeg)
+# ![](/wp-content/uploads/2018/08/monument-valley-lightning-storm-rain-144244-1024x576.webp)
 
 There is a desert that one traverses alone. This desert is not a physical place, for one can feel utterly desolate in fields of plenty, or be left totally forlorn amidst amicable company. Instead, it is a state of being. St John of the Cross called the experience the Dark Night of the Soul. I call my bleak barrens simply as “The Desert."
 

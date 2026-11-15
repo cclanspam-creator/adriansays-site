@@ -5,7 +5,7 @@ topics: ["Change", "Transition"]
 permalink: "/transition-avodah/"
 ---
 
-# ![](/wp-content/uploads/2018/08/marc-antoine-depelteau-268520-unsplash-1024x683.jpg)
+# ![](/wp-content/uploads/2018/08/marc-antoine-depelteau-268520-unsplash-1024x683.webp)
 
 # Transitions: A Common Experience not Commonly Talked About
 
@@ -25,7 +25,7 @@ Like an incantation, this Hebrew word sounds so mysterious when pronounced! And 
 
 # Transition into Meaningful Tent Making
 
-And so this is where I want to eventually be when I conclude my transition. To practice my avodah as a meaningful form of tent making. ![](/wp-content/uploads/2018/08/adore-chang-178629-unsplash.jpg) *The Tent is a place where a sojourner rests for the night.* *It shelters me from the elements, and lets me travel light.* *It helps me journey further, anchored but untethered.* *May those who travel with tents find similar respite.* My TENT allows me to
+And so this is where I want to eventually be when I conclude my transition. To practice my avodah as a meaningful form of tent making. ![](/wp-content/uploads/2018/08/adore-chang-178629-unsplash.webp) *The Tent is a place where a sojourner rests for the night.* *It shelters me from the elements, and lets me travel light.* *It helps me journey further, anchored but untethered.* *May those who travel with tents find similar respite.* My TENT allows me to
 
 - **T**end to the Temple
 - **E**xpress Expertise

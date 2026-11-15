@@ -5,7 +5,7 @@ topics: []
 draft: true
 ---
 
-![](/wp-content/uploads/2023/08/Dad-pic-for-funeral-813x1024.jpeg)
+![](/wp-content/uploads/2023/08/Dad-pic-for-funeral-813x1024.webp)
 
 Khoo Chong Guan 1937-2023
 

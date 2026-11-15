@@ -7,7 +7,7 @@ permalink: "/reflect-journal/"
 
 "*We do not learn from experience...we learn from reflecting on experience*." - Quote attributed to John Dewey
 
-![To Reflect well, we need to record well so that we can respond better](/wp-content/uploads/2018/02/Record-reflect-respond-300x124.png) To reflect well, we need to record well so that we can respond better
+![To Reflect well, we need to record well so that we can respond better](/wp-content/uploads/2018/02/Record-reflect-respond-300x124.webp) To reflect well, we need to record well so that we can respond better
 
 There are many ways to reflect and journal, supported by a plethora of tools. There are also many philosophies for reflecting and journaling. Over the next few posts, I will share how I teach and practice reflection and journaling, why it is important and how to use it for personal and organisational development.
 

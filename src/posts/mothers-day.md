@@ -5,7 +5,7 @@ topics: ["Marriage", "Parenting"]
 permalink: "/mothers-day/"
 ---
 
-![](/wp-content/uploads/2019/05/Hand-in-mine.jpg)
+![](/wp-content/uploads/2019/05/Hand-in-mine.webp)
 
 With a group of dads rediscovering what it means to be husbands again. For a more in-depth coverage of the event, please see [here](http://saltandlight.sg/family/celebrating-their-wives-this-mothers-day/?fbclid=IwAR0b0rjKmwlqDVwWXGlW27XR5_BBEhTb11kxUGRymvVFFUnsJ6PEMOk8eYQ).
 Photo courtesy of Hand in Mine.

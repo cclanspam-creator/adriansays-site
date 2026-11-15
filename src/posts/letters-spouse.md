@@ -5,7 +5,7 @@ topics: ["Marriage", "Reflection & Journaling"]
 permalink: "/letters-spouse/"
 ---
 
-![Letters to wife](/wp-content/uploads/2018/06/IMG-20180518-WA0002-576x1024.jpg) Letters to Wife written by a RIGSS alumni before departing on a Desuung course
+![Letters to wife](/wp-content/uploads/2018/06/IMG-20180518-WA0002-576x1024.webp) Letters to Wife written by a RIGSS alumni before departing on a Desuung course
 
 *This is a post about letter writing which can be read in conjunction with my other post on [How to Reflect and Journal Part 3: Drafts and Versions](https://adriansays.com/how-to-reflect-and-journal-part-3-drafts-and-versions/). Many of the ideas about reflection and journaling shared in this post are elaborated on further there. *
 
@@ -43,7 +43,7 @@ These days, whenever I travel on my own, my wife and children would write letter
 
 I strongly encourage this practice of writing to your loved ones when you are away on business trips without your family. I have been blessed to be at the receiving end of this practice from my family.
 
-![A letter can come in different forms](/wp-content/uploads/2018/06/note-from-Emma-in-lunchbox-1024x599.png) A letter from my daughter in the form of a post-it and a lunch box
+![A letter can come in different forms](/wp-content/uploads/2018/06/note-from-Emma-in-lunchbox-1024x599.webp) A letter from my daughter in the form of a post-it and a lunch box
 
 ### What are in those series of letters?
 

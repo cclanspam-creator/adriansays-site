@@ -5,7 +5,7 @@ topics: ["Easter", "Fasting"]
 permalink: "/fasting-feasting-ants-laments/"
 ---
 
-![Fasting](/wp-content/uploads/2019/04/IMG_20190413_145150-1024x517.jpg)
+![Fasting](/wp-content/uploads/2019/04/IMG_20190413_145150-1024x517.webp)
 
 Hanami in Japan - feast for the eyes
 

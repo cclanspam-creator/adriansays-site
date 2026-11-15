@@ -5,7 +5,7 @@ topics: []
 permalink: "/secret-love-national-day-address/"
 ---
 
-![](/wp-content/uploads/2021/12/IMAG0815-1024x579.jpeg)
+![](/wp-content/uploads/2021/12/IMAG0815-1024x579.webp)
 
 Love for Nation on display during the 2014 National Day of Bhutan
 

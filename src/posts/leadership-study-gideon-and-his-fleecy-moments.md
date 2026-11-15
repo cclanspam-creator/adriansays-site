@@ -5,7 +5,7 @@ topics: ["Leadership"]
 permalink: "/leadership-study-gideon-and-his-fleecy-moments/"
 ---
 
-![Gideon in action](/wp-content/uploads/2026/02/1102016044_univ_lsr_lg-1024x512.jpg)
+![Gideon in action](/wp-content/uploads/2026/02/1102016044_univ_lsr_lg-1024x512.webp)
 
 During this retreat, I promised myself I’d finally sit down and do a proper character study of someone in the Bible. Gideon has been on my “must-look-deeper” list for a while, so I decided: okay, it’s your turn.
 

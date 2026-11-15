@@ -5,7 +5,7 @@ topics: ["Parenting"]
 permalink: "/fathers/"
 ---
 
-![Fathers know what it feels like to be fathers for the first time](/wp-content/uploads/2020/06/Copy-of-27-to-29-Dec-03-019.jpg)
+![Fathers know what it feels like to be fathers for the first time](/wp-content/uploads/2020/06/Copy-of-27-to-29-Dec-03-019.webp)
 
 It is Father’s Day today. Or is it Fathers’ Day? A Google [search](https://www.google.com/search?q=fathers+day&oq=fathers+day&aqs=chrome..69i57j0l6.1927j0j7&sourceid=chrome&ie=UTF-8) reveals it to be the former. Though I feel it should be the latter, seeing how fathering is (and can still benefit from) a communal endeavour. (Indeed, my [post](https://adriansays.com/fathers-appeal/) last year on this topic referred to this day as Fathers' Day)
 

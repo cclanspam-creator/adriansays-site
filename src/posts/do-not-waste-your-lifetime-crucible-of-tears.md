@@ -5,7 +5,7 @@ topics: ["Restoration", "Simplicity", "Suffering", "Trials"]
 permalink: "/do-not-waste-your-lifetime-crucible-of-tears/"
 ---
 
-![Our crucible of tears](/wp-content/uploads/2020/09/tears-1024x478.jpeg)
+![Our crucible of tears](/wp-content/uploads/2020/09/tears-1024x478.webp)
 
 *Those who sow in tears will reap with songs of joy*. (Ps 126:6)
 Picture courtesy of Pexels

@@ -5,7 +5,7 @@ topics: ["Public Service"]
 permalink: "/public-service/"
 ---
 
-![Public Service Plug - Bear with it!](/wp-content/uploads/2019/07/care-check-up-checking-1516648.jpg)
+![Public Service Plug - Bear with it!](/wp-content/uploads/2019/07/care-check-up-checking-1516648.webp)
 
 Public Service Plug - Bear with it!
 

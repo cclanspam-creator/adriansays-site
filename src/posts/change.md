@@ -5,7 +5,7 @@ topics: ["Change", "Transition"]
 permalink: "/change/"
 ---
 
-![Contemplating Change](/wp-content/uploads/2018/07/contemplating-change.png) Contemplating Change
+![Contemplating Change](/wp-content/uploads/2018/07/contemplating-change.webp) Contemplating Change
 
 # ***Change Happens Because Life Needs to Happen***
 

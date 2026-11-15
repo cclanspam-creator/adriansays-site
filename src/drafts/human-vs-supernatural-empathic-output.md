@@ -5,7 +5,7 @@ topics: ["FACTER"]
 draft: true
 ---
 
-![Power of Prayer ](/wp-content/uploads/2026/02/photo_2026-02-01_07-20-04-1024x682.jpg)
+![Power of Prayer ](/wp-content/uploads/2026/02/photo_2026-02-01_07-20-04-1024x682.webp)
 
 Praying Posture by Tinnakorn Jorruang
 

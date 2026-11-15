@@ -5,7 +5,7 @@ topics: ["Reflection & Journaling"]
 permalink: "/reflect-journal-drafts-versions/"
 ---
 
-![Paper journal as a form of draft ](/wp-content/uploads/2018/06/journal-image.png) My paper journal is where i store my drafts
+![Paper journal as a form of draft ](/wp-content/uploads/2018/06/journal-image.webp) My paper journal is where i store my drafts
 
 *Note: This post is about how to utilise drafts and versions in how one journals. It is the third in a series of posts on how I teach and practice reflection and journaling. The [first](https://adriansays.com/reflect-journal/) and [second](https://adriansays.com/reflect-journal-creating-daily-practice/) posts can be found here. Many of the ideas in this post can be found in [Letters to Your Spouse](https://adriansays.com/letters-spouse/).*
 

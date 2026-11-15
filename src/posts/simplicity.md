@@ -5,7 +5,7 @@ topics: ["Simplicity"]
 permalink: "/simplicity/"
 ---
 
-![Simplicity in a Flower](/wp-content/uploads/2020/04/Flower-1024x683.png)
+![Simplicity in a Flower](/wp-content/uploads/2020/04/Flower-1024x683.webp)
 
 *`Simplicity in Creation: Photo by Emma Chan (@datsi_shoots)`*
 
@@ -25,7 +25,7 @@ For some of us, with our daily tech-enabled info overload at work, we sometimes 
 
 Simplicity is of great value for the workplace. It means one is focused and aligned to activities that generate value and avoiding what does not. Here is a simple illustration of simplicity by Eric Burke. How long did you think it takes for a successful company to get to that level of simplicity? Is their simplicity "simple-minded", or is it razor-sharp (and hugely profitable?)
 
-[![Simplicity of product](/wp-content/uploads/2020/04/Burke.png)](http://www.oscarberg.net/blog//2008/04/simple-illustration-of-power-of.html)
+[![Simplicity of product](/wp-content/uploads/2020/04/Burke.webp)](http://www.oscarberg.net/blog//2008/04/simple-illustration-of-power-of.html)
 
 *Simplicity in Places of Worship*
 

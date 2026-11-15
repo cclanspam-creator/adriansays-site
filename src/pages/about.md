@@ -4,7 +4,7 @@ permalink: /about/
 layout: page.njk
 ---
 
-![Adrian and his family](/wp-content/uploads/2018/02/IMG-20151110-WA0007-1024x712.jpg) Adrian and his family
+![Adrian and his family](/wp-content/uploads/2018/02/IMG-20151110-WA0007-1024x712.webp) Adrian and his family
 
 ### ABOUT ADRIAN
 

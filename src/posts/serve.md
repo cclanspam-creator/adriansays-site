@@ -5,7 +5,7 @@ topics: ["Suffering", "Trials"]
 permalink: "/serve/"
 ---
 
-![](/wp-content/uploads/2022/05/photo_2022-05-21-16.45.35.jpeg)
+![](/wp-content/uploads/2022/05/photo_2022-05-21-16.45.35.webp)
 
 My [Jones](https://online.boneandjoint.org.uk/doi/abs/10.1302/0301-620X.68B5.3782244) Bandage
 

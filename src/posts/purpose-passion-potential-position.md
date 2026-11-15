@@ -5,7 +5,7 @@ topics: ["Leadership", "Reflection & Journaling"]
 permalink: "/purpose-passion-potential-position/"
 ---
 
-![Purpose, Passion, Potential and Position are 4 Seasons of Life](/wp-content/uploads/2018/06/IMG-20170617-WA0007-1024x442.jpg) Purpose, Passion, Potential and Position are 4 Seasons of Life
+![Purpose, Passion, Potential and Position are 4 Seasons of Life](/wp-content/uploads/2018/06/IMG-20170617-WA0007-1024x442.webp) Purpose, Passion, Potential and Position are 4 Seasons of Life
 
 ### **The 4 Seasons of Life**
 

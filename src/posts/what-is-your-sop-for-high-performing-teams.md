@@ -5,7 +5,7 @@ topics: ["Leadership"]
 permalink: "/what-is-your-sop-for-high-performing-teams/"
 ---
 
-![](/wp-content/uploads/2024/04/sop-high-performing-teams.png)
+![](/wp-content/uploads/2024/04/sop-high-performing-teams.webp)
 
 ## SOP? What SOP?
 

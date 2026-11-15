@@ -7,7 +7,7 @@ permalink: "/reflect-journal-creating-daily-practice/"
 
 *Note: How does one create a daily practice of reflection and journaling? This is the second in a series of posts on how I teach and practice reflection and journalling. The first post can be found [here](https://adriansays.com/reflect-journal/). The third post is [here](https://adriansays.com/reflect-journal-drafts-versions/).*
 
-![Daily practices of reflection is easier when there is mutual accountability](/wp-content/uploads/2018/05/Children-Reflecting-1024x774.jpg) Getting Bhutanese Children to Reflect During an Experiential Learning Session
+![Daily practices of reflection is easier when there is mutual accountability](/wp-content/uploads/2018/05/Children-Reflecting-1024x774.webp) Getting Bhutanese Children to Reflect During an Experiential Learning Session
 
 My interest in reflection began with a personal quest for greater meaning and purpose at work and in daily life. It wasn’t that life and work was meaningless then - it was just this nagging feeling that there could be something more to life than toil and labor. It's as if I was missing something else important all my life.
 
@@ -23,7 +23,7 @@ In order to help leaders strengthen this connection between reflection and actio
 
  
 
-![](/wp-content/uploads/2018/05/How-to-reflect-journal.jpg)
+![](/wp-content/uploads/2018/05/How-to-reflect-journal.webp)
 
 ####  
 
@@ -61,7 +61,7 @@ My own system of journalling these days involve the use of Evernote. It has a sy
 
  
 
-![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-26-at-1.38.48-PM.png) Sample Record of Daily Events from my Evernote account
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-26-at-1.38.48-PM.webp) Sample Record of Daily Events from my Evernote account
 
  
 

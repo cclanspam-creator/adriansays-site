@@ -5,7 +5,7 @@ topics: ["FACTER"]
 permalink: "/facter-for-good/"
 ---
 
-![](/wp-content/uploads/2020/04/FACTER-logo.png)
+![](/wp-content/uploads/2020/04/FACTER-logo.webp)
 
 FACTER for Good
 

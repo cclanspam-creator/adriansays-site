@@ -15,7 +15,7 @@ How does one lead as a servant? There is no easier example to cite here in Bhuta
 
 Before we address servanthood, let us examine how the kings of Bhutan approach the issue of nobility. Nobility can come from one's position. But nobility can also be demonstrated through service. More accurately, one becomes noble through service. When we let go of any nobility arising from one's position, we will have no qualms about performing acts of service, especially the menial ones often associated with servants.
 
-![Servant Leader](/wp-content/uploads/2018/05/Yourstory-King-Of-Bhutan-2.jpg) Present King of Bhutan cooking for students in Mongar: Equal Parts Noble and Humble. Credit: Huffington Post
+![Servant Leader](/wp-content/uploads/2018/05/Yourstory-King-Of-Bhutan-2.webp) Present King of Bhutan cooking for students in Mongar: Equal Parts Noble and Humble. Credit: Huffington Post
 
 #### Serving with no Expectations of Entitlement
 
@@ -35,7 +35,7 @@ In the old days in the Middle East, hospitality is shown to guests by having a b
 
 When my god daughter and her groom chose this particular symbolic act, I think they knew exactly what they were conveying. They elected to put each other first, not considering their personal rights and comfort zones as something to hold on to. There were many tearful eyes in the hall that day. (At one point, the groom initially struggled to untie the sandals of his bride, and when the stubborn laces were finally undone, his silent hurrah was cheered by the appreciative crowd.)
 
-![We are servants to our spouses](/wp-content/uploads/2018/05/Nathan-and-Sophia-feetwashing-2018-04-08-07h08m39s491-576x1024.png) We are servants to our spouses
+![We are servants to our spouses](/wp-content/uploads/2018/05/Nathan-and-Sophia-feetwashing-2018-04-08-07h08m39s491-576x1024.webp) We are servants to our spouses
 
 ### HOW DOES ONE SERVE?
 

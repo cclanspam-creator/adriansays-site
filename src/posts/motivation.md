@@ -5,7 +5,7 @@ topics: ["Motivation"]
 permalink: "/motivation/"
 ---
 
-![](/wp-content/uploads/2022/01/hygiene-motivation.jpg)
+![](/wp-content/uploads/2022/01/hygiene-motivation.webp)
 
 Motivation is non-linear
 
