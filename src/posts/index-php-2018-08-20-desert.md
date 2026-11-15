@@ -1,0 +1,96 @@
+---
+title: "The Desert"
+date: 2018-08-20
+topics: ["Restoration", "Trials"]
+permalink: "/index-php-2018-08-20-desert/"
+---
+
+# ![](http://adriansays.com/wp-content/uploads/2018/08/monument-valley-lightning-storm-rain-144244-1024x576.jpeg)
+
+There is a desert that one traverses alone. This desert is not a physical place, for one can feel utterly desolate in fields of plenty, or be left totally forlorn amidst amicable company. Instead, it is a state of being. St John of the Cross called the experience the Dark Night of the Soul. I call my bleak barrens simply as “The Desert."
+
+Sometimes, it is easy to detect this desert in others. For some, it shows plainly on their faces, tear-stained and utterly broken. At other times, it is harder to observe unless one knows what to look out for. Perhaps it is in strained laughter that tries too hard, or in a devil-may-care, you-can’t-hurt-me dare that we discern its presence. Or sometimes, it is so well-hidden that it isn’t until after peeling away the busy bustle of a harried life that one discovers the sterile wastelands beneath.
+
+# A Different Desert Approach For Everyone
+
+The way by which one gets to the desert can be different for each person. It can be triggered by an unexpected death, or by an unexpected birth. It can be ushered in by the sudden news of a terminal illness, or be built up slowly by the agonising torment of staying in a job devoid of purpose.
+
+For some, their verdant clime turns winter cold after being aggrieved by friends or family who ought to know better. For others, it could be a trauma experienced early in life that colours all future interactions as self-fulfilng affirmations of abandonment, eventually drying up one’s wellspring of life.
+
+Some people arrive at the edge of the desert upon realising that one’s life has been utterly meaningless, totally boring, or sadly insignificant. Other people arrive by way of having too much of a good thing.
+
+# A Special Desert Approach: The Road of Too Much Good
+
+This last approach is particularly treacherous. Not in the sense of being dangerous (although some hedonistic pursuits can be dangerous), but that the journey is one of a series of gradual betrayal. What do I mean?
+
+Good things come in many forms. It can be virtues like humility, conscientiousness, or altruism. Or it can be outcomes like fame, or advancement. But a good thing can become bad when it turns one’s gaze inward, towards self-focused consumption.
+
+Like the hoarding of God-gifted manna by the Israelites during their desert years, when a good thing lowers one’s line of sight from the giver to the gift, it becomes a bad thing. The gift becomes usurped for personal consumption, and the intent of the giver is betrayed. Humility taken to the extreme becomes a form of pride, conscientiousness becomes intolerance of deviations, and altruism transforms into benign tyranny or condescending pity. People who tasted momentary fame become drunk and lost in the temporal acclaim. Others gifted with success for doing good get corrupted by the distracting glitter of accomplishment. All too quickly, they forget the initial intent and direction of the good with which they started.
+
+# The Crossroad
+
+Regardless of the manner in which we approach the desert, there is a common junction we always encounter. For want of a better term, I shall call it "The Crossroad". One can easily miss this crossroad, especially when one has been walking on the straight and broad path of least resistance. Had one been alert, one would have made out the faint marks of a trail leading upwards to the mountains. If one had the courage to leave the pack of fellow travellers and follow this trail to the heavens, one would discover that it quickly demands that we walk with a different gait, forcing one to be sure of each step before embarking on the next. (I will share more about the mountain trail in future).
+
+The latter path seems to be an easier walk. It leads one gently down the valley. The road down is broad to accommodate many, and indeed there are throngs of travellers on it. Sadly, like the passengers I often travel with on packed MRT trains, all with faces glued to their mobile phones, everyone seems too intent on themselves to bother with other fellow travellers. Indeed, one can be in crowded places and feel the most lonely.
+
+# The Entry
+
+No matter how one arrives, recognising that one is about to enter the desert can be somewhat of a shock. “Oh, I am at the desert,” we realise, shaken. Or “How did I get here?” We wonder, stupefied. These are the lucky ones.
+
+Those who are not so lucky stumble along blindly deep into the desert without ever realising it. They are lost, and do not even realise the extent of their aimlessness. They only know that the road they are on is painful, but have no words or wisdom for how to turn to a different way.
+
+Sometimes, we recognise that someone is in such a place, and we say “Ah…he is in his own desert”, as if we understand him. But it is mere cognisance. For until we have embarked on our own desert journeys, we know nothing. And when we have been marked by those journeys, we know enough to realise that the road ahead is truly one's own to make.
+
+# Alone In The Desert
+
+In a desert, one must travel alone. Unlike the broad boulevard, here, one is truly alone. It is not that people don’t care to walk with you. Rather, it is a journey that must be made on our own. One may occasionally see a fellow sojourner, but it is a desert mirage.
+
+Being alone means that each step you put ahead of the other is of your own choice, and made by your own effort. You either walk or you choose to stop. No one can help you with that. Do you choose to wander or do you choose to linger? Do you choose to adapt or do you seek an escape? The destination is ultimately yours alone to chart.
+
+The desert can on occasion conjure up an illusion of a fellow sojourner. These wraiths of imagination can provide temporary relief from the monotony and misery of the trudge. Sometimes, these ghosts may even lead you to an oasis of rest. At other times, they provide respite, entertaining one's addled attempts at conversation. But to forget that they are illusions is certain death, for to tarry in the desert in search of other ethereal companions is to be condemned to an endless wandering within it.
+
+# Alone But Not Abandoned
+
+I remember a particular desert I once traversed long ago. (Pre-emptive note: This was before I met my lovely wife, so no, I do not have any current marital problems that I am aware of - confirmed by wifey also). It was my personal dark night of the soul, as St John of the Cross would call it. I did not enter it knowingly. Instead, the winds of change blew in the desert sands. Slowly but surely, my heartscape became arid and insufferable. Eventually, the desolation was complete as I finally surrendered to its embrace.
+
+During such a time, your nearest loved ones become the ones furthest away from you. They may be within reach, but they are so, so out of touch.
+
+It is not that they no longer care. Rather, their cries are lost in the heart-rending howls of the desert winds. To get relief from the winds, we wrap ourselves in shawls of self-pity. Eventually, we are wrapped so tightly within our misery that we become lost not only to the winds, but also to the world around us.
+
+And as we wander the desert within, imprisoned, impotent, and impoverished, it is easy to convince ourselves that we are utterly, undoubtedly abandoned. In such a state, it is tempting to stay lost in the desert. After all, why emerge when there is no one waiting on the outside?
+
+# Waiting For Our Return
+
+The truth is, there are always loved ones waiting for our return. But because the desert is to be travelled alone, all that your loved ones can do is to wait with wringing hands at the edge of the wilderness, praying and straining for the first sight for our emergence.
+
+In my past desert experiences, I have often convinced myself that there is no one waiting outside for me. But each time I emerge, I have always found loving faces awaiting my return. Sometimes, the faces belong to the most unexpected of persons - a long lost friend, a newly met friend, even a stranger. But always, there is an imprint of a loving God on their waiting faces.
+
+True, knowing that a face has awaited my return does not make each new desert undertaking any easier. Each impending entry negates the previous exit. There is always the nagging fear that just because someone waited for my return does not mean another will be waiting this time round. But now I am wiser. I no longer demand for a particular familiar face. I have learnt instead to take joy in whichever face I encounter when I emerge.
+
+# How Should Each Stay Be?
+
+A stay in the desert can vary. In the Bible, a people released from slavery found themselves wandering in the desert for 40 years. They never emerged from it to enter the promised land, for Egypt remained too firmly lodged in their hearts despite having been released from its pens.
+
+My own desert encounters are varied in length. If I were really harsh, I could even say my 47 years thus far has been a long desert of sorts. But I don’t think so. Looking back, there are clear signs of impending entry, and clearer indications of the exit. Over the years, I have become better at looking out for the signs.
+
+# The Right Length of Stay
+
+The irony is that the more I yearn to emerge from the desert, the longer I may have to stay in it. The desert is not a place to run away from or to avoid entirely. It is not the enemy - that privilege belongs to us, or rather to the multiple, fractured selves of our own making.
+
+The desert is a friend, or can be so if one allows it to be. It is a place where one learns to master oneself, and allows oneself to be mastered. It is a place where the winds do their work of stripping away all the dead skin that clings on to us. Such shedding is necessarily painful, but also essential for rejuvenation. (It is like exfoliation, but immeasurably more painful).
+
+I have shed many things in my multiple stays here - ego, ambition, idolatry, rage - you name it. Each time, I realise I am but dust, awaiting life-giving water to turn me into mouldable clay. Each time, I realise that even as clay, I cannot make myself into a beautiful, useful vessel. Only an external hand guided by an eternal eye can give form to the divine design in me.
+
+# The Confrontation
+
+Each time, my stay culminates with a confrontation. Sometimes, this confrontation is with the demons within me. Other times, it is with God. Dealing with the demons may require me to un-demonise others. Encountering God may require me to de-pedestalise the other false gods I have placed on the altar. Either way, it begins with allowing a defiled "me” to undergo the necessary refinement.
+
+Sometimes, I run away from any impending confrontation, because the desert is still not done with me. I am not ready because I resist the cleansing winds, not caring that they are harbingers of the life-giving rain that will follow. Or I may I hang on too strongly to the need to be right. I fight back against the invitation to give up my self-prescribed role as the victim, for it seems like too much skin to give up. Eventually, when I give up fighting against my multiple selves, and submit to the transcendent self, I am ready for the confrontation. If I am successful with that, I am allowed to emerge from the desert.
+
+# The Emergence
+
+When one realises the desert for what it is, the way out becomes revealed. The desert does what it does. It prunes us towards purity, and prepares us for future promises, penalties and pronouncements to be fulfilled. Endure the desert and we emerge sandblasted and smoothened, scorched but shining, strengthened and sharpened for greater service.
+
+# Afternote
+
+If you are in a desert right now, hang in there. Just know that there is someone waiting at its edge for you. I encourage you to [**journal**](http://adriansays.com/reflect-journal/) about your journey. And if you feel so inclined to share your experience with me, I’d love to hear from you! If you have professional training that can help others with their own desert encounters, I’d also love to hear from you. All correspondences directed to my personal email [**here**](http://adriansays.com/index.php/contact-me/) will be treated with the strictest confidentiality.

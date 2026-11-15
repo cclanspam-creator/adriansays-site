@@ -1,0 +1,28 @@
+---
+layout: base.njk
+title: Home
+---
+<section class="wrap intro">
+  <p class="eyebrow">Musings by Adrian Chan</p>
+  <h1>Adrian Says</h1>
+  <p class="lede">Reflections on leadership, faith, family and the years in Bhutan.</p>
+</section>
+<section class="wrap">
+  <h2>Browse by theme</h2>
+  <div class="themes">
+    {%- for t in collections.topicList | limit(8) %}
+    <a class="theme" href="/topics/{{ t.name | slug }}/"><strong>{{ t.name }}</strong><span>{{ t.items.length }} {% if t.items.length == 1 %}piece{% else %}pieces{% endif %}</span></a>
+    {%- endfor %}
+  </div>
+  <h2>Recent writing</h2>
+  <ul class="post-list">
+  {%- for post in collections.articles | limit(6) %}
+    <li>
+      <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
+      <p class="meta"><time datetime="{{ post.date | iso }}">{{ post.date | readable }}</time></p>
+      <p>{{ post.templateContent | excerpt }}</p>
+    </li>
+  {%- endfor %}
+  </ul>
+  <p><a href="/writing/">All writing &rarr;</a></p>
+</section>

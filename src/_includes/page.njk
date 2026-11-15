@@ -1,0 +1,8 @@
+---
+layout: base.njk
+---
+<article class="wrap prose page">
+  {% if not hideTitle %}<h1>{{ title }}</h1>{% endif %}
+  {{ content | safe }}
+  {% if origin %}<p class="origin">{{ origin }}.</p>{% endif %}
+</article>
