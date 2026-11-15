@@ -1,3 +1,3 @@
 import { readFileSync } from "node:fs";
 const base = JSON.parse(readFileSync(new URL("../_settings/site.json", import.meta.url)));
-export default { ...base, year: new Date().getFullYear() };
+export default { ...base, year: new Date().getFullYear(), build: Date.now().toString(36) };
