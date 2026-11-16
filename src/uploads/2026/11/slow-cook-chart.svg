@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200" role="img" aria-labelledby="t d">
+<title id="t">The slow cook: no crash, four slow burns</title>
+<desc id="d">Timeline from 1929 to 2030 and four panels: US trust in mass media 68% in 1972 to 28% in 2025; Singapore resident fertility 1.24 in 2015 to 0.87 in 2025; global employee engagement peaking at 23% in 2022 and falling to 20% in 2025; global wealth shares in 2025, top 10% 75%, middle 40% 23%, bottom 50% 2%.</desc>
+<rect width="1200" height="1200" fill="#F5F5F5"/>
+<text x="60" y="92" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#00897B" text-anchor="start" letter-spacing="4">THE SLOW COOK</text>
+<text x="60" y="146" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="800" fill="#1B3A6B" text-anchor="start" >No crash. Four slow burns.</text>
+<text x="60" y="186" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="400" fill="#2D2D2D" text-anchor="start" >A burst is loud and dated. These forces are quiet, and they are all moving the same way.</text>
+<line x1="80" y1="318" x2="1120" y2="318" stroke="#1B3A6B" stroke-width="2"/>
+<line x1="80.0" y1="313" x2="80.0" y2="323" stroke="#1B3A6B" stroke-width="2"/>
+<text x="80.0" y="344" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#6B6B6B" text-anchor="middle" >1929</text>
+<line x1="296.2" y1="313" x2="296.2" y2="323" stroke="#1B3A6B" stroke-width="2"/>
+<text x="296.2" y="344" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#6B6B6B" text-anchor="middle" >1950</text>
+<line x1="502.2" y1="313" x2="502.2" y2="323" stroke="#1B3A6B" stroke-width="2"/>
+<text x="502.2" y="344" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#6B6B6B" text-anchor="middle" >1970</text>
+<line x1="708.1" y1="313" x2="708.1" y2="323" stroke="#1B3A6B" stroke-width="2"/>
+<text x="708.1" y="344" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#6B6B6B" text-anchor="middle" >1990</text>
+<line x1="914.1" y1="313" x2="914.1" y2="323" stroke="#1B3A6B" stroke-width="2"/>
+<text x="914.1" y="344" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2010</text>
+<line x1="1120.0" y1="313" x2="1120.0" y2="323" stroke="#1B3A6B" stroke-width="2"/>
+<text x="1120.0" y="344" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2030</text>
+<line x1="90.3" y1="310" x2="90.3" y2="288" stroke="#D9DDE3" stroke-width="1.5"/>
+<text x="96.3" y="262" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" text-anchor="start" >1930 · Keynes names the</text>
+<text x="96.3" y="280" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="start" >“permanent problem”</text>
+<circle cx="90.3" cy="318" r="7" fill="#1B3A6B" stroke="#F5F5F5" stroke-width="2"/>
+<line x1="121.2" y1="326" x2="121.2" y2="348" stroke="#D9DDE3" stroke-width="1.5"/>
+<text x="127.2" y="366" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" text-anchor="start" >1933 · US unemployment</text>
+<text x="127.2" y="384" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="start" >peaks at 24.9%</text>
+<circle cx="121.2" cy="318" r="7" fill="#1B3A6B" stroke="#F5F5F5" stroke-width="2"/>
+<line x1="522.8" y1="310" x2="522.8" y2="288" stroke="#D9DDE3" stroke-width="1.5"/>
+<text x="528.8" y="262" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" text-anchor="start" >1972 · 68% of Americans</text>
+<text x="528.8" y="280" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="start" >trust the media</text>
+<circle cx="522.8" cy="318" r="7" fill="#1B3A6B" stroke="#F5F5F5" stroke-width="2"/>
+<line x1="893.5" y1="326" x2="893.5" y2="348" stroke="#D9DDE3" stroke-width="1.5"/>
+<text x="887.5" y="366" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" text-anchor="end" >2008 · Global</text>
+<text x="887.5" y="384" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="end" >financial crisis</text>
+<circle cx="893.5" cy="318" r="7" fill="#1B3A6B" stroke="#F5F5F5" stroke-width="2"/>
+<line x1="986.1" y1="310" x2="986.1" y2="244" stroke="#D9DDE3" stroke-width="1.5"/>
+<text x="980.1" y="218" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" text-anchor="end" >2017 · Equifax breach,</text>
+<text x="980.1" y="236" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="end" >~147m people exposed</text>
+<circle cx="986.1" cy="318" r="7" fill="#1B3A6B" stroke="#F5F5F5" stroke-width="2"/>
+<line x1="1058.2" y1="326" x2="1058.2" y2="392" stroke="#D9DDE3" stroke-width="1.5"/>
+<text x="1052.2" y="410" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" text-anchor="end" >2024 · Bots pass 51%</text>
+<text x="1052.2" y="428" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="end" >of web traffic</text>
+<circle cx="1058.2" cy="318" r="7" fill="#1B3A6B" stroke="#F5F5F5" stroke-width="2"/>
+<line x1="1120.0" y1="310" x2="1120.0" y2="288" stroke="#D9DDE3" stroke-width="1.5"/>
+<text x="1114.0" y="262" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" text-anchor="end" >2030 · Keynes’s</text>
+<text x="1114.0" y="280" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="end" >100-year horizon</text>
+<circle cx="1120.0" cy="318" r="7" fill="#00897B" stroke="#F5F5F5" stroke-width="2"/>
+<rect x="60" y="462" width="510" height="320" rx="10" fill="#FFFFFF"/>
+<text x="84" y="496" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#00897B" text-anchor="start" letter-spacing="2">CYNICISM</text>
+<text x="84" y="524" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#1B3A6B" text-anchor="start" >Trust in US mass media</text>
+<text x="84" y="548" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="start" >% trusting “a great deal” or “a fair amount”</text>
+<line x1="120" y1="736.0" x2="536" y2="736.0" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="740.0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >0%</text>
+<line x1="120" y1="697.5" x2="536" y2="697.5" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="701.5" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >20%</text>
+<line x1="120" y1="659.0" x2="536" y2="659.0" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="663.0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >40%</text>
+<line x1="120" y1="620.5" x2="536" y2="620.5" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="624.5" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >60%</text>
+<line x1="120" y1="582.0" x2="536" y2="582.0" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="586.0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >80%</text>
+<line x1="120.0" y1="605.1" x2="151.4" y2="597.4" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="151.4" y1="597.4" x2="528.2" y2="676.3" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 5"/>
+<line x1="528.2" y1="676.3" x2="536.0" y2="682.1" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<g><title>1972: 68%</title><circle cx="120.0" cy="605.1" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="120.0" cy="605.1" r="14" fill="transparent"/></g>
+<text x="126.0" y="631.1" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#2D2D2D" text-anchor="start" >68%</text>
+<g><title>1976: 72%</title><circle cx="151.4" cy="597.4" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="151.4" cy="597.4" r="14" fill="transparent"/></g>
+<g><title>2024: 31%</title><circle cx="528.2" cy="676.3" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="528.2" cy="676.3" r="14" fill="transparent"/></g>
+<g><title>2025: 28%</title><circle cx="536.0" cy="682.1" r="6" fill="#00897B" stroke="#FFFFFF" stroke-width="2"/><circle cx="536.0" cy="682.1" r="14" fill="transparent"/></g>
+<text x="536.0" y="668.1" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#00897B" text-anchor="middle" >28%</text>
+<text x="120.0" y="758" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >1972</text>
+<text x="151.4" y="758" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >1976</text>
+<text x="536.0" y="758" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2025</text>
+<line x1="120" y1="736" x2="536" y2="736" stroke="#6B6B6B" stroke-width="1"/>
+<text x="335.0" y="770" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#6B6B6B" text-anchor="middle" >Dashed: intermediate years not shown</text>
+<rect x="630" y="462" width="510" height="320" rx="10" fill="#FFFFFF"/>
+<text x="654" y="496" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#00897B" text-anchor="start" letter-spacing="2">GENERATIONAL</text>
+<text x="654" y="524" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#1B3A6B" text-anchor="start" >Singapore resident fertility</text>
+<text x="654" y="548" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="start" >Total fertility rate, births per woman</text>
+<line x1="690" y1="736.0" x2="1106" y2="736.0" stroke="#D9DDE3" stroke-width="1"/>
+<text x="680" y="740.0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >0.00</text>
+<line x1="690" y1="684.7" x2="1106" y2="684.7" stroke="#D9DDE3" stroke-width="1"/>
+<text x="680" y="688.7" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >0.80</text>
+<line x1="690" y1="633.3" x2="1106" y2="633.3" stroke="#D9DDE3" stroke-width="1"/>
+<text x="680" y="637.3" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >1.60</text>
+<line x1="690" y1="582.0" x2="1106" y2="582.0" stroke="#D9DDE3" stroke-width="1"/>
+<text x="680" y="586.0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >2.40</text>
+<line x1="690" y1="601.2" x2="1106" y2="601.2" stroke="#00897B" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="1106" y="593.2" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#00897B" text-anchor="end" >Replacement 2.1</text>
+<line x1="690.0" y1="656.4" x2="1022.8" y2="673.8" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 5"/>
+<line x1="1022.8" y1="673.8" x2="1064.4" y2="673.8" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1064.4" y1="673.8" x2="1106.0" y2="680.2" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<g><title>2015: 1.24</title><circle cx="690.0" cy="656.4" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="690.0" cy="656.4" r="14" fill="transparent"/></g>
+<text x="696.0" y="682.4" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#2D2D2D" text-anchor="start" >1.24</text>
+<g><title>2023: 0.97</title><circle cx="1022.8" cy="673.8" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="1022.8" cy="673.8" r="14" fill="transparent"/></g>
+<g><title>2024: 0.97</title><circle cx="1064.4" cy="673.8" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="1064.4" cy="673.8" r="14" fill="transparent"/></g>
+<g><title>2025: 0.87</title><circle cx="1106.0" cy="680.2" r="6" fill="#00897B" stroke="#FFFFFF" stroke-width="2"/><circle cx="1106.0" cy="680.2" r="14" fill="transparent"/></g>
+<text x="1106.0" y="666.2" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#00897B" text-anchor="middle" >0.87</text>
+<text x="690.0" y="758" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2015</text>
+<text x="1106.0" y="758" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2025</text>
+<line x1="690" y1="736" x2="1106" y2="736" stroke="#6B6B6B" stroke-width="1"/>
+<text x="905.0" y="770" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#6B6B6B" text-anchor="middle" >Dashed: 2016–2022 not shown</text>
+<rect x="60" y="812" width="510" height="320" rx="10" fill="#FFFFFF"/>
+<text x="84" y="846" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#00897B" text-anchor="start" letter-spacing="2">APATHY</text>
+<text x="84" y="874" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#1B3A6B" text-anchor="start" >Engaged at work, worldwide</text>
+<text x="84" y="898" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="start" >% of employees engaged (Gallup)</text>
+<line x1="120" y1="1086.0" x2="536" y2="1086.0" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="1090.0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >0%</text>
+<line x1="120" y1="1034.7" x2="536" y2="1034.7" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="1038.7" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >10%</text>
+<line x1="120" y1="983.3" x2="536" y2="983.3" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="987.3" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >20%</text>
+<line x1="120" y1="932.0" x2="536" y2="932.0" stroke="#D9DDE3" stroke-width="1"/>
+<text x="110" y="936.0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B" text-anchor="end" >30%</text>
+<line x1="120.0" y1="1024.4" x2="198.0" y2="1019.3" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="198.0" y1="1019.3" x2="224.0" y2="1014.1" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="224.0" y1="1014.1" x2="250.0" y2="1014.1" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="250.0" y1="1014.1" x2="276.0" y2="1009.0" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="276.0" y1="1009.0" x2="302.0" y2="998.7" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="302.0" y1="998.7" x2="354.0" y2="988.5" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="354.0" y1="988.5" x2="380.0" y2="973.1" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="380.0" y1="973.1" x2="406.0" y2="983.3" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="406.0" y1="983.3" x2="432.0" y2="978.2" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="432.0" y1="978.2" x2="458.0" y2="967.9" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458.0" y1="967.9" x2="484.0" y2="967.9" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="484.0" y1="967.9" x2="510.0" y2="978.2" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="510.0" y1="978.2" x2="536.0" y2="983.3" stroke="#1B3A6B" stroke-width="2.5" stroke-linecap="round"/>
+<g><title>2009: 12%</title><circle cx="120.0" cy="1024.4" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="120.0" cy="1024.4" r="14" fill="transparent"/></g>
+<text x="126.0" y="1050.4" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#2D2D2D" text-anchor="start" >12%</text>
+<g><title>2012: 13%</title><circle cx="198.0" cy="1019.3" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="198.0" cy="1019.3" r="14" fill="transparent"/></g>
+<g><title>2013: 14%</title><circle cx="224.0" cy="1014.1" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="224.0" cy="1014.1" r="14" fill="transparent"/></g>
+<g><title>2014: 14%</title><circle cx="250.0" cy="1014.1" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="250.0" cy="1014.1" r="14" fill="transparent"/></g>
+<g><title>2015: 15%</title><circle cx="276.0" cy="1009.0" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="276.0" cy="1009.0" r="14" fill="transparent"/></g>
+<g><title>2016: 17%</title><circle cx="302.0" cy="998.7" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="302.0" cy="998.7" r="14" fill="transparent"/></g>
+<g><title>2018: 19%</title><circle cx="354.0" cy="988.5" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="354.0" cy="988.5" r="14" fill="transparent"/></g>
+<g><title>2019: 22%</title><circle cx="380.0" cy="973.1" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="380.0" cy="973.1" r="14" fill="transparent"/></g>
+<g><title>2020: 20%</title><circle cx="406.0" cy="983.3" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="406.0" cy="983.3" r="14" fill="transparent"/></g>
+<g><title>2021: 21%</title><circle cx="432.0" cy="978.2" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="432.0" cy="978.2" r="14" fill="transparent"/></g>
+<g><title>2022: 23%</title><circle cx="458.0" cy="967.9" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="458.0" cy="967.9" r="14" fill="transparent"/></g>
+<text x="458.0" y="953.9" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#2D2D2D" text-anchor="middle" >23%</text>
+<g><title>2023: 23%</title><circle cx="484.0" cy="967.9" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="484.0" cy="967.9" r="14" fill="transparent"/></g>
+<g><title>2024: 21%</title><circle cx="510.0" cy="978.2" r="4.5" fill="#1B3A6B" stroke="#FFFFFF" stroke-width="2"/><circle cx="510.0" cy="978.2" r="14" fill="transparent"/></g>
+<g><title>2025: 20%</title><circle cx="536.0" cy="983.3" r="6" fill="#00897B" stroke="#FFFFFF" stroke-width="2"/><circle cx="536.0" cy="983.3" r="14" fill="transparent"/></g>
+<text x="536.0" y="969.3" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#00897B" text-anchor="middle" >20%</text>
+<text x="120.0" y="1108" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2009</text>
+<text x="276.0" y="1108" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2015</text>
+<text x="458.0" y="1108" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2022</text>
+<text x="536.0" y="1108" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#6B6B6B" text-anchor="middle" >2025</text>
+<line x1="120" y1="1086" x2="536" y2="1086" stroke="#6B6B6B" stroke-width="1"/>
+<text x="335.0" y="1120" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#6B6B6B" text-anchor="middle" >Peak 2022–23; two straight years of decline</text>
+<rect x="630" y="812" width="510" height="320" rx="10" fill="#FFFFFF"/>
+<text x="654" y="846" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#00897B" text-anchor="start" letter-spacing="2">THE DIVIDE</text>
+<text x="654" y="874" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#1B3A6B" text-anchor="start" >Who owns the world’s wealth</text>
+<text x="654" y="898" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#6B6B6B" text-anchor="start" >Share of global personal wealth, 2025</text>
+<text x="654" y="961" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#2D2D2D" text-anchor="start" >Richest 10%</text>
+<g><title>Richest 10%: 75%</title><rect x="780" y="937" width="271.9" height="34" rx="4" fill="#1B3A6B"/></g>
+<text x="1061.9" y="961" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#2D2D2D" text-anchor="start" >75%</text>
+<text x="654" y="1017" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#2D2D2D" text-anchor="start" >Middle 40%</text>
+<g><title>Middle 40%: 23%</title><rect x="780" y="993" width="83.4" height="34" rx="4" fill="#8FA3C2"/></g>
+<text x="873.4" y="1017" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#2D2D2D" text-anchor="start" >23%</text>
+<text x="654" y="1073" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#2D2D2D" text-anchor="start" >Poorest 50%</text>
+<g><title>Poorest 50%: 2%</title><rect x="780" y="1049" width="7.2" height="34" rx="4" fill="#00897B"/></g>
+<text x="797.2" y="1073" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#2D2D2D" text-anchor="start" >2%</text>
+<text x="905.0" y="1120" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#6B6B6B" text-anchor="middle" >One end lacks reason to strive; the other, belief that striving works</text>
+<text x="60" y="1160" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="400" fill="#6B6B6B" text-anchor="start" >Sources: Gallup (2025); Singapore Dept of Statistics (2026); Gallup State of the Global Workplace 2026; World Inequality Report 2026; Imperva Bad Bot Report 2025; FTC; FDR Library.</text>
+<text x="60" y="1180" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="400" fill="#6B6B6B" text-anchor="start" >Panels show selected years where noted. Adrian Chan · adriansays.com</text>
+</svg>
