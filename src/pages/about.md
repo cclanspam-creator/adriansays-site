@@ -26,7 +26,7 @@ I also use this blog to better understand human behavior, starting with my own b
 
 ### DISCLAIMER
 
-All entries in this blog are invitations to further discourse. Take them for what they are, feel free to comment if you wish. If you do feel inclined to comment, please be respectful of others. Don't feel offended if the values and views shared in this blog differ from yours. It's the diversity that makes the world a more interesting place. Having said that, I reserve the right to remove any comment that I deem offensive. I will also not tolerate any comments raised with the aim of politicizing agendas, inflaming sensibilities or are simply irrelevant to the aim of the thread.
+All entries in this blog are invitations to further discourse. Take them for what they are, and feel free to [email me](mailto:email@acerpacer.com) if you wish. If you do feel inclined to write, please be respectful of others. Don't feel offended if the values and views shared in this blog differ from yours. It's the diversity that makes the world a more interesting place. Having said that, I will not respond to emails sent with the aim of politicizing agendas, inflaming sensibilities or that are simply irrelevant to the aim of the post.
 
 As an aside, any entry in this blog should not be taken as 'evidence' of Adrian's failings as if Adrian is an immutable, unchanging entity incapable of growth. That's a fixed mindset. If one day God wants me to be famous, I want to warn potential detractors against using an entry from ten or fifteen years ago as evidence that Adrian was such and such and must therefore remain such and such.
 

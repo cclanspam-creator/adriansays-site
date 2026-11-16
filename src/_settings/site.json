@@ -20,6 +20,16 @@
   "footer": "Musings by Adrian Chan · <a href=\"/feed.xml\">RSS feed</a> · For consulting, coaching and leadership programmes, visit <a href=\"https://acerpacer.com\">acerpacer.com</a>",
   "email": "email@acerpacer.com",
   "preview": true,
-  "bio": "I'm Adrian Chan, an organisational psychologist and coach in Singapore, a husband and a father. I write here about faith, family, leadership and the years I spent serving in Bhutan.",
-  "portrait": ""
+  "bio": "I am a psychologist by training and a note-taker by habit. I spent fifteen years in the army and eight years helping the Kingdom of Bhutan grow its leaders, and I still spend most of my waking hours wondering why people do what they do (myself included). I believe leaders are made slowly, one honest reflection at a time. This blog is where I think out loud about leadership, faith and the small nudges that make us better, in the hope that some of it bears good fruit for you too.",
+  "portrait": "/assets/adrian-chan.webp",
+  "bioShort": "Psychologist by training, note-taker by habit. I write here about leadership, faith and the small nudges that make us better.",
+  "elsewhere": [
+    {
+      "title": "When serving the King of Bhutan led to serving the King of Kings",
+      "url": "https://saltandlight.sg/service/when-serving-the-king-of-bhutan-led-to-serving-the-king-of-kings/",
+      "source": "Salt&Light",
+      "date": "27 November 2018",
+      "note": "Salt&Light's account of how our family came to live in Bhutan and what those years taught us."
+    }
+  ]
 }

@@ -3,7 +3,6 @@ title: "Transition Into Meaningful Tent-Making"
 date: 2018-08-25
 topics: ["Change", "Transition"]
 permalink: "/transition-avodah/"
-featured: 2
 ---
 
 # ![](/wp-content/uploads/2018/08/marc-antoine-depelteau-268520-unsplash-1024x683.webp)

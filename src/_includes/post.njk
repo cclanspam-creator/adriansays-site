@@ -10,7 +10,7 @@ layout: base.njk
 <aside class="wrap post-end">
   <div class="author">
     {%- if site.portrait %}<img src="{{ site.portrait }}" alt="" width="64" height="64">{% endif %}
-    <p><strong>{{ site.owner }}</strong><br>{{ site.bio }}</p>
+    <p><strong>{{ site.owner }}</strong><br>{{ site.bioShort or site.bio }}</p>
   </div>
   <p class="reply">Have a thought on this piece? <a href="mailto:{{ site.email }}?subject={{ ('Re: ' + title) | urlencode }}">Reply by email</a>. I read every one.</p>
   {%- set n = collections.articles | neighbours(page) %}
