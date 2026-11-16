@@ -17,5 +17,9 @@
       "url": "https://acerpacer.com"
     }
   ],
-  "footer": "Musings by Adrian Chan \u00b7 For consulting, coaching and leadership programmes, visit <a href=\"https://acerpacer.com\">acerpacer.com</a>"
+  "footer": "Musings by Adrian Chan · <a href=\"/feed.xml\">RSS feed</a> · For consulting, coaching and leadership programmes, visit <a href=\"https://acerpacer.com\">acerpacer.com</a>",
+  "email": "email@acerpacer.com",
+  "preview": true,
+  "bio": "I'm Adrian Chan, an organisational psychologist and coach in Singapore, a husband and a father. I write here about faith, family, leadership and the years I spent serving in Bhutan.",
+  "portrait": ""
 }

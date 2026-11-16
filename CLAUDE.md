@@ -18,6 +18,11 @@ Create a markdown file in `src/posts/` with this front matter:
     topics: ["Leadership"]
     ---
 
+## Themes and lists
+- Each article keeps detailed `topics`. `eleventy.config.js` groups them into the site's seven themes (the `THEMES` map); a new topic must be added to that map or it will not appear under any theme.
+- Optional front matter: `description` (the summary shown in lists; otherwise one is taken from the opening text), `image` (list thumbnail; otherwise the first image), `featured: 1` (order in "Start here" on the home page).
+- `src/_settings/site.json` holds the home-page bio, portrait path and reply email. `"preview": true` tells search engines not to list the site: set it to `false` at the domain cutover.
+
 ## Publishing rules
 - New articles are drafted on a branch and opened as a pull request for Adrian to approve. Do not publish new writing straight to `main`.
 - No double spaces. Avoid contrastive-reframe constructions, heavy em-dash use and mirrored closing sentences in Adrian's writing.

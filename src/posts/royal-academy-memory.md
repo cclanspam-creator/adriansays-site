@@ -1,7 +1,7 @@
 ---
 title: "Remembering My Royal Academy Memories"
 date: 2018-10-16
-topics: ["Feedback", "Reflection & Journaling"]
+topics: ["Bhutan", "Feedback", "Reflection & Journaling"]
 permalink: "/royal-academy-memory/"
 ---
 

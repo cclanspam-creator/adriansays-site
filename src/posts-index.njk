@@ -7,13 +7,5 @@ permalink: /writing/
   <h1>Writing</h1>
   <p class="lede">Reflections on leadership, faith, family and the years in Bhutan.</p>
   <p class="topic-row">{% for t in collections.topicList %}<a class="chip" href="/topics/{{ t.name | slug }}/">{{ t.name }} <span>{{ t.items.length }}</span></a>{% endfor %}</p>
-  <ul class="post-list">
-  {%- for post in collections.articles %}
-    <li>
-      <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
-      <p class="meta"><time datetime="{{ post.date | iso }}">{{ post.date | readable }}</time></p>
-      <p>{{ post.templateContent | excerpt }}</p>
-    </li>
-  {%- endfor %}
-  </ul>
+  {% set posts = collections.articles %}{% include "postlist.njk" %}
 </section>

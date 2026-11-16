@@ -6,6 +6,6 @@ eleventyExcludeFromCollections: true
 <rss version="2.0"><channel>
 <title>{{ site.name }}</title><link>{{ site.url }}</link><description>{{ site.description }}</description>
 {%- for post in collections.articles | limit(20) %}
-<item><title>{{ post.data.title }}</title><link>{{ site.url }}{{ post.url }}</link><guid>{{ site.url }}{{ post.url }}</guid><pubDate>{{ post.date.toUTCString() }}</pubDate><description>{{ post.templateContent | excerpt }}</description></item>
+<item><title>{{ post.data.title }}</title><link>{{ site.url }}{{ post.url }}</link><guid>{{ site.url }}{{ post.url }}</guid><pubDate>{{ post.date.toUTCString() }}</pubDate><description>{{ post | summary }}</description></item>
 {%- endfor %}
 </channel></rss>

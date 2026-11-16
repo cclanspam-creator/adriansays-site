@@ -48,3 +48,39 @@ nav a,.eyebrow,.chip,.meta,.small,.site-footer{font-family:system-ui,-apple-syst
 .theme strong{display:block;font-size:1.15rem;color:var(--head-ink)}
 .theme span{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:.85rem;color:var(--muted)}
 .theme:hover{border-color:var(--accent)}
+
+.post-list li.has-thumb{display:flex;gap:1.25rem;align-items:flex-start;justify-content:space-between}
+.post-list li>div{min-width:0}
+.thumb{flex:none}
+.thumb img{display:block;width:7rem;height:7rem;object-fit:cover;border-radius:6px}
+.about-me{display:flex;gap:1.25rem;align-items:center}
+.about-me img{flex:none;width:6rem;height:6rem;border-radius:50%;object-fit:cover}
+.about-me .lede{margin:0}
+.about-me a{white-space:nowrap}
+.themes{margin-bottom:1rem}
+.post-end{margin-top:3rem;padding-top:2rem;border-top:1px solid var(--line)}
+.post-end h2{font-size:1.2rem;margin:2rem 0 .5rem}
+.author{display:flex;gap:1rem;align-items:flex-start}
+.author img{flex:none;width:4rem;height:4rem;border-radius:50%;object-fit:cover}
+.author p{margin:0;font-size:1rem;color:var(--muted)}
+.author strong{color:var(--head-ink)}
+.reply{font-size:1rem}
+.pager{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:2rem 0}
+.pager a{display:block;padding:1rem 1.1rem;background:var(--card);border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--head-ink);font-weight:600;line-height:1.35}
+.pager a:hover{border-color:var(--accent)}
+.pager span{display:block;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:.8rem;font-weight:500;color:var(--muted);margin-bottom:.25rem}
+.pager .next{text-align:right}
+.related{list-style:none;padding:0;margin:0}
+.related li{padding:.4rem 0}
+.prose figure{margin:2rem 0}
+.prose figcaption{font-size:.9rem;color:var(--muted);margin-top:.5rem}
+.prose .dek{font-size:1.3rem;line-height:1.5;color:var(--muted);margin-top:0}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0}
+.cards section{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:1.1rem 1.25rem;font-size:1rem;line-height:1.6}
+.cards h3{margin:0;font-size:1.15rem}
+.cards p{margin:.5rem 0 0}
+.cards .counters{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:.8rem;color:var(--muted);margin-top:.15rem}
+.cards strong{white-space:nowrap}
+.sources{font-size:.9rem;line-height:1.55;color:var(--muted)}
+.sources li{margin-bottom:.4rem}
+@media (max-width:40rem){.thumb img{width:4.5rem;height:4.5rem}.pager,.cards{grid-template-columns:1fr}.pager .next{text-align:left}.about-me{align-items:flex-start}}

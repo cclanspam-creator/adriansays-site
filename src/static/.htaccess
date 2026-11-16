@@ -13,6 +13,13 @@ Redirect 301 /my-work/ https://acerpacer.com/my-work/
 Redirect 301 /coaching/ https://acerpacer.com/coaching-mentoring-counselling/
 Redirect 301 /testimonials/ https://acerpacer.com/testimonials/
 
+# Old WordPress addresses
+RedirectMatch 301 ^/feed/?$ /feed.xml
+RedirectMatch 301 ^/(index\.php/)?about-this-blog/?$ /about/
+RedirectMatch 301 ^/blog/?$ /writing/
+RedirectMatch 301 ^/author/adrian/?$ /about/
+RedirectMatch 301 ^/contact-me/?$ /about/
+
 # Let browsers keep fonts, images and styles so repeat visits load from the device
 <IfModule mod_expires.c>
   ExpiresActive On

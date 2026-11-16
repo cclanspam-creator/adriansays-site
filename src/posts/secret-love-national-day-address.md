@@ -1,7 +1,7 @@
 ---
 title: "The Secret Love behind Bhutan's 114th National Day Address"
 date: 2021-12-22
-topics: []
+topics: ["Bhutan"]
 permalink: "/secret-love-national-day-address/"
 ---
 

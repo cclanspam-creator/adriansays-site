@@ -3,6 +3,7 @@ title: "The Desert"
 date: 2018-08-20
 topics: ["Restoration", "Trials"]
 permalink: "/index-php-2018-08-20-desert/"
+featured: 3
 ---
 
 # ![](/wp-content/uploads/2018/08/monument-valley-lightning-storm-rain-144244-1024x576.webp)

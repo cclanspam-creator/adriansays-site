@@ -1,0 +1,13 @@
+<ul class="post-list">
+{%- for post in posts %}
+  {%- set thumb = post.data.image or (post.templateContent | firstImage) %}
+  <li{% if thumb %} class="has-thumb"{% endif %}>
+    <div>
+      <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
+      <p class="meta"><time datetime="{{ post.date | iso }}">{{ post.date | readable }}</time></p>
+      <p>{{ post | summary }}</p>
+    </div>
+    {%- if thumb %}<a class="thumb" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ thumb }}" alt="" width="112" height="112"></a>{% endif %}
+  </li>
+{%- endfor %}
+</ul>

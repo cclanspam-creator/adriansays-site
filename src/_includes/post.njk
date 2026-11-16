@@ -2,9 +2,30 @@
 layout: base.njk
 ---
 <article class="wrap prose post">
-  <p class="eyebrow"><time datetime="{{ page.date | iso }}">{{ page.date | readable }}</time>{% for t in topics %} · <a href="/topics/{{ t | slug }}/">{{ t }}</a>{% endfor %}</p>
+  <p class="eyebrow"><time datetime="{{ page.date | iso }}">{{ page.date | readable }}</time>{% for t in topics | themes %} · <a href="/topics/{{ t | slug }}/">{{ t }}</a>{% endfor %}</p>
   <h1>{{ title }}</h1>
   {{ content | safe }}
   {% if origin %}<p class="origin">{{ origin }}.</p>{% endif %}
-  <p class="back"><a href="/writing/">&larr; All writing</a></p>
 </article>
+<aside class="wrap post-end">
+  <div class="author">
+    {%- if site.portrait %}<img src="{{ site.portrait }}" alt="" width="64" height="64">{% endif %}
+    <p><strong>{{ site.owner }}</strong><br>{{ site.bio }}</p>
+  </div>
+  <p class="reply">Have a thought on this piece? <a href="mailto:{{ site.email }}?subject={{ ('Re: ' + title) | urlencode }}">Reply by email</a>. I read every one.</p>
+  {%- set n = collections.articles | neighbours(page) %}
+  <nav class="pager" aria-label="More writing">
+    {%- if n.older %}<a href="{{ n.older.url }}"><span>&larr; Earlier</span>{{ n.older.data.title }}</a>{% else %}<span></span>{% endif %}
+    {%- if n.newer %}<a class="next" href="{{ n.newer.url }}"><span>Later &rarr;</span>{{ n.newer.data.title }}</a>{% endif %}
+  </nav>
+  {%- set rel = collections.articles | related(page, topics) %}
+  {%- if rel.length %}
+  <h2>Related writing</h2>
+  <ul class="related">
+    {%- for post in rel %}
+    <li><a href="{{ post.url }}">{{ post.data.title }}</a> <span class="meta">{{ post.date | readable }}</span></li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
+  <p class="back"><a href="/writing/">&larr; All writing</a></p>
+</aside>

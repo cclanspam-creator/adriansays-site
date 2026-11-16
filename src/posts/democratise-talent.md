@@ -1,7 +1,7 @@
 ---
 title: "Do You Really Want to Democratise Talent?"
 date: 2020-09-15
-topics: ["Talent"]
+topics: ["Bhutan", "Talent"]
 permalink: "/democratise-talent/"
 ---
 

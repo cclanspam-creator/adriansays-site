@@ -1,8 +1,9 @@
 ---
 title: "Learning ROHI From Serving a King"
 date: 2018-09-07
-topics: ["Leadership", "Reflection & Journaling", "Servant Leadership", "Stewardship"]
+topics: ["Bhutan", "Leadership", "Reflection & Journaling", "Servant Leadership", "Stewardship"]
 permalink: "/rohi/"
+featured: 1
 ---
 
 # Musings From a Dinner

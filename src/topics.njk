@@ -9,16 +9,8 @@ eleventyComputed:
   title: "{{ topic.name }}"
 ---
 <section class="wrap">
-  <p class="eyebrow">Topic</p>
+  <p class="eyebrow">Theme</p>
   <h1>{{ topic.name }}</h1>
-  <ul class="post-list">
-  {%- for post in topic.items %}
-    <li>
-      <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
-      <p class="meta"><time datetime="{{ post.date | iso }}">{{ post.date | readable }}</time></p>
-      <p>{{ post.templateContent | excerpt }}</p>
-    </li>
-  {%- endfor %}
-  </ul>
+  {% set posts = topic.items %}{% include "postlist.njk" %}
   <p class="back"><a href="/writing/">&larr; All writing</a></p>
 </section>
